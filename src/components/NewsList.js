@@ -79,4 +79,4 @@ const NewsList = () => {
     </>
   );
 };
-export default NewsList;re
+export default NewsList;
