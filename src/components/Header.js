@@ -20,7 +20,7 @@ const Header = () => {
             </button>
           )
       }
-      <h1>COVID STATISTICS</h1>
+      <h1>COVID 19</h1>
       <div className="header-actions">
         <span><BsMicFill /></span>
         <span><BsFillGearFill /></span>
