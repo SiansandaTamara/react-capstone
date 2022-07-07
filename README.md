@@ -17,7 +17,7 @@
 - Covid-19 API
 
 ## Live Demo 
-[Live Demo Link]()
+[Live Demo Link]( https://siansandatamara.github.io/react-capstone2/)
 
 ## Live video 
 
