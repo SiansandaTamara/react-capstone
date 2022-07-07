@@ -20,7 +20,6 @@
 [Live Demo Link]()
 
 ## Live video 
-[Live video]()
 
 
 
